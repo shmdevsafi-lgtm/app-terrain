@@ -7,7 +7,7 @@ import type { CapacitorConfig } from "@capacitor/cli";
  */
 const config: CapacitorConfig = {
   appId: "com.hsely.douches",
-  appName: "Douches de sécurité",
+  appName: "hsely",
   webDir: "dist",
   backgroundColor: "#ffffff",
   android: {
